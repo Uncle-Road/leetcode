@@ -4,5 +4,5 @@
 
 2024-07-21 又没心情刷题了，dgjx
 
-![fw](../leetcode/fw.png)
+![fw](https://github.com/Uncle-Road/leetcode/blob/master/fw.png)
 
